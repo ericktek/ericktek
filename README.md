@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ericktek</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a junior developer and data scientist passionate about coding and learning new skills. Here you’ll find some of the projects I’ve been working on and a bit about my background and interests.</h3>
 
 - 🔭 I’m currently working on **web development**
 
