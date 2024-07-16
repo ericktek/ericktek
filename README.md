@@ -1,30 +1,24 @@
-
-
 Hi there 👋, I'm @ericktek
 Welcome to my GitHub profile! I'm a junior developer and data scientist passionate about coding and learning new skills. Here you’ll find some of the projects I’ve been working on and a bit about my background and interests.
 
-🌱 Currently Learning:
-Supervised and Unsupervised Learning 
+🌱 Currently Learning
+Supervised and Unsupervised Learning
 Time Series Analysis and Forecasting
 Next.js for web development
-
-💼 Work Experience:
+💼 Work Experience
 Junior Developer
 Data Scientist
-
-💡 Skills:
+💡 Skills
 Programming Languages: Python, JavaScript, PHP
 Libraries/Frameworks: Next.js, Axios, Laravel
 Data Analysis: Descriptive Statistics, Stationarity Tests, Unit Root Tests, Box-Jenkins Methodology
 Graphics Design: Engaging Instagram Content
-
 🔭 Projects
-Nextjs and Laravel Projects
-I have numerous projects utilizing javascript, PHP and the Nexjs, Laravel framework available in my repositories.
+Next.js and Laravel Projects
+I have numerous projects utilizing JavaScript, PHP, and the Next.js, Laravel frameworks available in my repositories.
 
 API Integration
 Integrating token generation and checkout functionality using Next.js and Axios.
-
 
 📫 Get in Touch
 Email: erickbale360@gmail.com
