@@ -5,18 +5,20 @@ Welcome to my GitHub profile! I'm a junior developer and data scientist passiona
 Supervised and Unsupervised Learning
 Time Series Analysis and Forecasting
 Next.js for web development
+
 💼 Work Experience
 Junior Developer
 Data Scientist
+
 💡 Skills
 Programming Languages: Python, JavaScript, PHP
 Libraries/Frameworks: Next.js, Axios, Laravel
 Data Analysis: Descriptive Statistics, Stationarity Tests, Unit Root Tests, Box-Jenkins Methodology
 Graphics Design: Engaging Instagram Content
+
 🔭 Projects
 Next.js and Laravel Projects
 I have numerous projects utilizing JavaScript, PHP, and the Next.js, Laravel frameworks available in my repositories.
-
 API Integration
 Integrating token generation and checkout functionality using Next.js and Axios.
 
