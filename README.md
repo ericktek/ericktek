@@ -1,7 +1,7 @@
 <h2>Hi, I'm Erick Lema</h2>
 
 <p>
-  I am a seasoned Data Scientist and Software Engineer with expertise in building scalable solutions that drive data-driven decision-making.
+  I am a Data Scientist and Software Engineer with expertise in building scalable solutions.
 </p>
 
 - 📫 How to reach me: **erickbale360@gmail.com**
