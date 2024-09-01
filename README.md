@@ -1,10 +1,10 @@
 <h2>Hi, I'm Erick Lema</h2>
 
 <p>
-  I am a Data Scientist and Software Engineer with expertise in building scalable solutions.
+○ I am a Data Scientist and Software Engineer with expertise in building scalable solutions.
 </p>
 
-- 📫 How to reach me: **erickbale360@gmail.com**
+📫 How to reach me: **erickbale360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
