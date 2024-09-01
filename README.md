@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ericktek</h1>
+<h1 align="center">Hi 👋, I'm Erick Lema</h1>
 
 - 🔭 I’m currently working on **web development**
 
