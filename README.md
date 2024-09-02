@@ -1,4 +1,4 @@
-<h2>Hi, I'm Erick Lema</h2>
+<h1>Hi, I'm Erick Lema</h1>
 
 <p>
 I am a Data Scientist and Software Engineer with expertise in building scalable solutions.
